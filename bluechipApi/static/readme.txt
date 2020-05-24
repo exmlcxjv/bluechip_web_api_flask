@@ -1,1 +1,1 @@
-this folder is to store all resources
+this folder is to store all resources, please do not delete this file
